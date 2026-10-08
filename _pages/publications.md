@@ -6,6 +6,28 @@ nav: true
 nav_order: 2
 ---
 
+
+<style>
+/* Publication year headers */
+.post article h2 {
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: 2.4rem;
+  margin-bottom: 1.3rem;
+  padding: 0.55rem 1rem;
+  border-left: 4px solid var(--global-theme-color);
+  border-radius: 7px;
+  background: color-mix(
+    in srgb,
+    var(--global-theme-color) 9%,
+    transparent
+  );
+  font-size: 1.55rem;
+  font-weight: 500;
+  line-height: 1.3;
+}
+</style>
+
 ## 2027
 
 **[User Perceptions of Deceptive In-Vehicle Infotainment User Interfaces](https://mpese.com/publication/mohajeransari-2027-ivi/)**  
