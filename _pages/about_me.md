@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 nav: true
 nav_order: 1
-description: Biography, education, and research experience.
 ---
 
 ## Biography

@@ -4,12 +4,57 @@ title: Service
 permalink: /service/
 nav: true
 nav_order: 3
-description: Academic service, reviewing, mentoring, and honors.
 ---
 
 ## Mentoring
 
-I mentor students on research projects in computer vision, autonomous systems, vision-language models, adversarial machine learning, and related areas. My mentoring focuses on developing research questions, designing experiments, interpreting results, and preparing research for publication.
+<div class="row mt-3">
+  <div class="col-sm-3 text-muted">
+    Spring 2026 – Fall 2026
+  </div>
+  <div class="col-sm-9">
+    <strong>Anna Galeano</strong><br>
+    Research mentoring — ongoing project
+  </div>
+</div>
+
+<div class="row mt-4">
+  <div class="col-sm-3 text-muted">
+    Fall 2025
+  </div>
+  <div class="col-sm-9">
+    <strong>Ashton B. McEntarffer</strong> <em>(Co-mentor)</em><br>
+    Research on adversarial robustness of traffic-sign recognition.
+    Resulted in
+    <a href="https://openaccess.thecvf.com/content/CVPR2026W/6thAdvML%40CV/html/McEntarffer_Auditing_Traffic-Sign_Robustness_via_DDIM_Inversion_Do_Diffusion_Latents_Preserve_CVPRW_2026_paper.html">
+      Auditing Traffic-Sign Robustness via DDIM Inversion: Do Diffusion Latents Preserve Shadow Attacks?
+    </a>
+    (CVPR AdvML 2026).
+  </div>
+</div>
+
+<div class="row mt-4">
+  <div class="col-sm-3 text-muted">
+    Fall 2024 – Spring 2025
+  </div>
+  <div class="col-sm-9">
+    <strong>Ashton B. McEntarffer</strong> <em>(Co-mentor)</em><br>
+    Creative Inquiry — Automotive Security<br>
+    <a href="https://news.clemson.edu/three-cecas-students-bring-home-goldwater-scholarships/" target="_blank" rel="noopener noreferrer">
+      2025 Barry Goldwater Scholar
+    </a> — Clemson News
+  </div>
+</div>
+
+<div class="row mt-4">
+  <div class="col-sm-3 text-muted">
+    Fall 2024 – Spring 2025
+  </div>
+  <div class="col-sm-9">
+    <strong>Max Engelhorn</strong><br>
+    Creative Inquiry — Automotive Security
+  </div>
+</div>
 
 ## Leadership & Program Service
 

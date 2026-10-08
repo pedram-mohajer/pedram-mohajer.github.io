@@ -3,7 +3,6 @@ layout: about
 title: Home
 permalink: /
 nav: false
-subtitle: Third-year Ph.D. Student in Computer Science at Clemson University
 
 profile:
   align: right
@@ -24,9 +23,9 @@ latest_posts:
   enabled: false
 ---
 
-I am a third-year Ph.D. student in Computer Science at **Clemson University** and a Graduate Research Assistant in the **TigerSec Lab**.
+I began my M.S. in Computer Science at **Clemson University** in 2022 and completed it in 2024. I then began my Ph.D. in Computer Science at Clemson University in 2024, where I am currently a third-year Ph.D. student and a Graduate Research Assistant in the **TigerSec Lab**.
 
-My research focuses on making AI perception systems for autonomous and safety-critical applications more **robust, secure, and trustworthy**. I work across vision-language models, adversarial machine learning, autonomous-vehicle perception, and efficient 3D learning.
+My research focuses on making AI perception systems for autonomous and safety-critical applications more **robust, secure, and trustworthy**. I work across vision-language models, adversarial machine learning, and autonomous-vehicle perception.
 
 ## News
 
