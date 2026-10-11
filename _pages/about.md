@@ -100,9 +100,9 @@ latest_posts:
 }
 </style>
 
-I began my M.S. in Computer Science at **Clemson University** in 2022 and completed it in 2024. I then began my Ph.D. in Computer Science at Clemson University in 2024, where I am currently a third-year Ph.D. student and a Graduate Research Assistant in the **TigerSec Lab**.
+Pedram MohajerAnsari is a third-year Ph.D. student in Computer Science at **Clemson University** and a Graduate Research Assistant in the **TigerSec Lab**. He previously completed his M.S. in Computer Science at Clemson from 2022 to 2024.
 
-My research focuses on making AI perception systems for autonomous and safety-critical applications more **robust, secure, and trustworthy**. I work across vision-language models, adversarial machine learning, and autonomous-vehicle perception.
+His research focuses on making AI perception systems for autonomous and safety-critical applications more **robust, secure, and trustworthy**, with interests spanning vision-language models, adversarial machine learning, and autonomous-vehicle perception.
 
 ## News
 
