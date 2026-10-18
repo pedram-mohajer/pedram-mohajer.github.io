@@ -58,7 +58,7 @@ He completed his M.S. in Computer Science at Clemson University in **2024**, aft
 ### Ph.D. in Computer Science
 **Clemson University**  
 August 2024 – Present  
-Expected 2028
+Expected 2027
 
 ### M.S. in Computer Science
 **Clemson University**  

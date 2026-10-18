@@ -98,6 +98,8 @@ nav_order: 3
 
 ## Honors & Awards
 
+- **Student Conferenceship**, Annual Computer Security Applications Conference (ACSAC), 2026
+
 - **Best Paper Award** — ACM Asia Conference on Computer and Communications Security (AsiaCCS), 2026
 - **Spotlight Paper** — IEEE International Conference on Image Processing (ICIP), 2026
 - **Best Paper Award** — SAE International Conference on Vehicle Security, 2025
