@@ -49,9 +49,9 @@ nav_order: 1
 
 ## Biography
 
-Pedram MohajerAnsari is a third-year Ph.D. student in Computer Science at **Clemson University** and a Graduate Research Assistant in the **TigerSec Lab**. His research focuses on trustworthy and secure AI for autonomous systems, with interests spanning vision-language models, adversarial machine learning, computer vision, and autonomous-vehicle perception.
+I am a third-year Ph.D. student in Computer Science at **Clemson University** and a Graduate Research Assistant in the **TigerSec Lab**. My research focuses on trustworthy and secure AI for autonomous systems, with interests spanning vision-language models, adversarial machine learning, autonomous-vehicle perception, and automotive privacy.
 
-He completed his M.S. in Computer Science at Clemson University in **2024**, after beginning the program in **2022**, and holds a B.S. in Computer Engineering from **Sirjan University of Technology**.
+I completed my M.S. in Computer Science at Clemson University in **2024**, after beginning the program in **2022**, and I hold a B.S. in Computer Engineering from **Sirjan University of Technology**.
 
 ## Education
 
