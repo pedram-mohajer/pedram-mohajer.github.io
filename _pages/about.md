@@ -6,7 +6,7 @@ nav: false
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_2026.jpg
   image_circular: true
   more_info: >
     <div style="text-align:center; position:relative; top:-12px; font-size:0.85rem; line-height:1;">
